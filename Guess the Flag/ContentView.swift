@@ -4,6 +4,10 @@
 //
 //  Created by Dylan Silva on 11/26/23.
 //
+// introduting stacks, images, buttons, alerts, assets catalogs and more
+// guess the flag
+//entails: many flages, guessing which flag goes to which country, show correct and incorrect
+
 
 import SwiftUI
 
